@@ -1,0 +1,25 @@
+foram copiadas as isos para o pasta C:\ISO - AcronisTrueImag-WinPE.iso
+                                           - AOEMI-WinPE.iso
+                                           - MacriumReflect-WinPE.iso
+criei um HD de 90GB e habilitei MBR
+tirei um snapshot e fiz o processo de clonagem nos 3 softwares diferentes
+
+passo a passo Acronis - tools e ultilites
+                      - clone disk
+                      - selecionar HD de 50GB como HD de origem
+                      - selecionar HD de 90GB como HD de destino
+                      - aguardar o processo e reicinar a máquina
+
+passo a passo AOEMI - AOEMI Backupper
+                    - clone
+                    - disk clone
+                    - selecionar disco de 50BG
+                    - selecionar disco de 90GB
+                    - não tem a chave :(
+
+passo a passo Macrium - create backup
+                      - clone this disk
+                      - select a disk to clone to...
+                      - selecionar HD de 90GB
+                      - finish
+                      - aguardar clonagem e reinciar.
